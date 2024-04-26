@@ -3,11 +3,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/kheronn/projeto-de-vida-turmaBN">
-    <img src="turmacn.png" alt="Logo" >
+  <a href="">
+    <img src="" alt="Logo" >
   </a>
 
-<h3 align="center">Projeto de Vida - Turma CN</h3>
+<h3 align="center">Projeto de Vida - Maynara</h3>
 
   <p align="center">
     Projeto construído no Grupo de Formadores Trilha de Programação II | 1ª Jornada de 2024
